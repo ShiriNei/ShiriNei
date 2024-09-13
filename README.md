@@ -12,4 +12,4 @@ C++, C, Python Matlab, TCP/IP & Linux.
 ## CONTACT
 shirineisser1@gmail.com
 
-linkedin.com/in/shiri-neisser
+linkedin.com/in/shiri-neisser-3849011bb/
