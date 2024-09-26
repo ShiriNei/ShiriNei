@@ -1,7 +1,6 @@
 ## Hi!
 I'm Shiri Neisser,
-
-Ben-Gurion University of the Negev graduate 
+Ben-Gurion University of the Negev student at Electrical and Computer Engineering School  with spelaztion in communiction systems. 
 Communication Engineering
 
 Specializations : Computers and Computer Networks.
